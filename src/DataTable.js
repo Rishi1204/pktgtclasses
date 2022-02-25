@@ -4,6 +4,7 @@ import DATA from "./Scholastics_Responses.json"
 import { COLUMNS } from "./columns"
 import "./table.css"
 
+// test commit
 const DataTable = () => {
 
     const columns = useMemo(() => COLUMNS, [])
