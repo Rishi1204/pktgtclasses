@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pktgtclasses/static/css/main.9be302b2.css",
+    "main.js": "/pktgtclasses/static/js/main.620e96b9.js",
+    "static/js/787.681599c5.chunk.js": "/pktgtclasses/static/js/787.681599c5.chunk.js",
+    "index.html": "/pktgtclasses/index.html",
+    "main.9be302b2.css.map": "/pktgtclasses/static/css/main.9be302b2.css.map",
+    "main.620e96b9.js.map": "/pktgtclasses/static/js/main.620e96b9.js.map",
+    "787.681599c5.chunk.js.map": "/pktgtclasses/static/js/787.681599c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9be302b2.css",
+    "static/js/main.620e96b9.js"
+  ]
+}
