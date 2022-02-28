@@ -97,7 +97,7 @@
   {
     "Course_Name": "CS1301",
     "Past_Takers": "Tejas Pradeep, Chesson, Christian DeRolf, Tusheet Sidharth Goli",
-    "Current_Takers": "Danny Bach, Kretz"
+    "Current_Takers": "Danny Bach, Ryan Kretzmer"
   },
   {
     "Course_Name": "CS1331(TA)",
@@ -337,7 +337,7 @@
   {
     "Course_Name": "ENGL1101",
     "Past_Takers": "Paul Barsa, António Ferreira, Christian DeRolf, Tusheet Sidharth Goli",
-    "Current_Takers": "David, Brendan Coyne"
+    "Current_Takers": "David Lloyd George, Brendan Coyne"
   },
   {
     "Course_Name": "ENGL1102",
@@ -607,12 +607,12 @@
   {
     "Course_Name": "MGT3076",
     "Past_Takers": "",
-    "Current_Takers": "Kretz"
+    "Current_Takers": "Ryan Kretzmer"
   },
   {
     "Course_Name": "MGT3084",
     "Past_Takers": "",
-    "Current_Takers": "Kretz"
+    "Current_Takers": "Ryan Kretzmer"
   },
   {
     "Course_Name": "MGT3150",
@@ -622,7 +622,7 @@
   {
     "Course_Name": "MGT3599",
     "Past_Takers": "",
-    "Current_Takers": "Kretz"
+    "Current_Takers": "Ryan Kretzmer"
   },
   {
     "Course_Name": "MGT3660",
@@ -762,12 +762,12 @@
   {
     "Course_Name": "PHYS4142",
     "Past_Takers": "Chesson",
-    "Current_Takers": "David"
+    "Current_Takers": "David Lloyd George"
   },
   {
     "Course_Name": "PHYS4143",
     "Past_Takers": "Chesson",
-    "Current_Takers": "Sergio, David"
+    "Current_Takers": "Sergio, David Lloyd George"
   },
   {
     "Course_Name": "PHYS4347",
@@ -777,7 +777,7 @@
   {
     "Course_Name": "PHYS4601",
     "Past_Takers": "Chesson",
-    "Current_Takers": "Sergio, David"
+    "Current_Takers": "Sergio, David Lloyd George"
   },
   {
     "Course_Name": "PHYS4602",
@@ -787,7 +787,7 @@
   {
     "Course_Name": "PHYS4813",
     "Past_Takers": "",
-    "Current_Takers": "Sergio, David"
+    "Current_Takers": "Sergio, David Lloyd George"
   },
   {
     "Course_Name": "PROFESSIONAL-PRACTICE",
