@@ -4,11 +4,11 @@ export const COLUMNS = [
         accessor: "Course_Name"
     },
     {
-        Header: "People Who Took The Course",
+        Header: "Past",
         accessor: "Past_Takers"
     },
     {
-        Header: "People Taking The Course",
+        Header: "Current",
         accessor: "Current_Takers"
     }
 ]

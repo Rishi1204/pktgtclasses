@@ -40,6 +40,11 @@
     "Current_Takers": "Christian DeRolf, Matt Jordan, Aryan"
   },
   {
+    "Course_Name": "APPH1050",
+    "Past_Takers": "Tusheet Sidharth Goli",
+    "Current_Takers": ""
+  },
+  {
     "Course_Name": "ARBC1002",
     "Past_Takers": "",
     "Current_Takers": "Tyson"
@@ -86,28 +91,33 @@
   },
   {
     "Course_Name": "CS1100",
-    "Past_Takers": "Keerthan",
+    "Past_Takers": "Keerthan, Tusheet Sidharth Goli",
     "Current_Takers": "Vibhav Agrawal"
   },
   {
     "Course_Name": "CS1301",
-    "Past_Takers": "Tejas Pradeep, Chesson, Christian DeRolf",
+    "Past_Takers": "Tejas Pradeep, Chesson, Christian DeRolf, Tusheet Sidharth Goli",
     "Current_Takers": "Danny Bach, Kretz"
   },
   {
     "Course_Name": "CS1331(TA)",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
     "Course_Name": "CS1331",
-    "Past_Takers": "Chesson, Keerthan",
+    "Past_Takers": "Chesson, Keerthan, Tusheet Sidharth Goli, Tejas Pradeep",
     "Current_Takers": "Nathan Weber, Christian DeRolf, Rishi Nopany, Henok Alemu, Ryan Sheppard, Aryan"
   },
   {
     "Course_Name": "CS1332",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": "Andrew Graffeo, Jasper Seabold, Lucas Ahrens, Tyson, Vibhav Agrawal, Ian Wood, Ryan Hegi, Tejas Vermani, Keerthan Durasala"
+  },
+  {
+    "Course_Name": "CS1332(TA)",
+    "Past_Takers": "Tusheet Sidharth Goli",
+    "Current_Takers": ""
   },
   {
     "Course_Name": "CS1371(TA)",
@@ -121,7 +131,7 @@
   },
   {
     "Course_Name": "CS2050",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": "Jasper Seabold, Ian Wood, Tejas Vermani"
   },
   {
@@ -131,17 +141,17 @@
   },
   {
     "Course_Name": "CS2110",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": "Jasper Seabold, Lucas Ahrens, Ryan Hegi, Keerthan Durasala"
   },
   {
     "Course_Name": "CS2200",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
     "Course_Name": "CS2340",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": "Ian Wood, Ahmad, Keerthan Durasala"
   },
   {
@@ -166,38 +176,48 @@
   },
   {
     "Course_Name": "CS3251",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
     "Course_Name": "CS3312",
     "Past_Takers": "",
-    "Current_Takers": "roach, Matthew Dacey-Koo, Ryan Lynch"
+    "Current_Takers": "David Desrochers, Matthew Dacey-Koo, Ryan Lynch"
   },
   {
     "Course_Name": "CS3510",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
+    "Course_Name": "CS3510(TA)",
+    "Past_Takers": "Tusheet Sidharth Goli",
+    "Current_Takers": "Tejas Pradeep"
+  },
+  {
     "Course_Name": "CS3600",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": "Matthew Dacey-Koo, Ahmad"
   },
   {
     "Course_Name": "CS3630",
-    "Past_Takers": "Tejas Pradeep",
-    "Current_Takers": "Sergio, roach, Ahmad"
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
+    "Current_Takers": "Sergio, David Desrochers, Ahmad"
   },
   {
     "Course_Name": "CS3790",
     "Past_Takers": "",
-    "Current_Takers": "roach"
+    "Current_Takers": "David Desrochers"
   },
   {
     "Course_Name": "CS4002",
+    "Past_Takers": "Tusheet Sidharth Goli",
+    "Current_Takers": "Tejas Pradeep, Tillson Galloway"
+  },
+  {
+    "Course_Name": "CS4002(TA)",
     "Past_Takers": "",
-    "Current_Takers": "Big tex, Tillson Galloway"
+    "Current_Takers": "Tusheet Sidharth Goli"
   },
   {
     "Course_Name": "CS4240",
@@ -206,7 +226,7 @@
   },
   {
     "Course_Name": "CS4400",
-    "Past_Takers": "Tejas Pradeep, Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
@@ -217,12 +237,12 @@
   {
     "Course_Name": "CS4641",
     "Past_Takers": "",
-    "Current_Takers": "roach, Matthew Dacey-Koo"
+    "Current_Takers": "David Desrochers, Matthew Dacey-Koo"
   },
   {
     "Course_Name": "CS4644",
     "Past_Takers": "",
-    "Current_Takers": "roach"
+    "Current_Takers": "David Desrochers"
   },
   {
     "Course_Name": "CS4803-CYBERSECURITY",
@@ -232,12 +252,12 @@
   {
     "Course_Name": "CS6238",
     "Past_Takers": "",
-    "Current_Takers": "Traub"
+    "Current_Takers": "Josh Weintraub"
   },
   {
     "Course_Name": "CS6440",
     "Past_Takers": "",
-    "Current_Takers": "Tusheet Sidharth Goli, Big tex"
+    "Current_Takers": "Tusheet Sidharth Goli, Tejas Pradeep"
   },
   {
     "Course_Name": "CS6471",
@@ -252,17 +272,17 @@
   {
     "Course_Name": "CS8803-BLOCKCHAINS-AND-CRYPTOCURRENCY",
     "Past_Takers": "",
-    "Current_Takers": "Traub"
+    "Current_Takers": "Josh Weintraub"
   },
   {
     "Course_Name": "CS8803-DATA-CENTER-NETWORKS-AND-SYSTEMS",
     "Past_Takers": "",
-    "Current_Takers": "Traub"
+    "Current_Takers": "Josh Weintraub"
   },
   {
     "Course_Name": "CSE6242",
     "Past_Takers": "",
-    "Current_Takers": "Tusheet Sidharth Goli, Big tex"
+    "Current_Takers": "Tusheet Sidharth Goli, Tejas Pradeep"
   },
   {
     "Course_Name": "CSE6730",
@@ -316,18 +336,13 @@
   },
   {
     "Course_Name": "ENGL1101",
-    "Past_Takers": "Paul Barsa, António Ferreira, Christian DeRolf",
+    "Past_Takers": "Paul Barsa, António Ferreira, Christian DeRolf, Tusheet Sidharth Goli",
     "Current_Takers": "David, Brendan Coyne"
   },
   {
     "Course_Name": "ENGL1102",
-    "Past_Takers": "Paul Barsa, Keerthan",
-    "Current_Takers": "Danny Bach, Tanner Zagrodnik, Jasper Seabold, Christian DeRolf, Tyson, Aryan, Liam Bourque"
-  },
-  {
-    "Course_Name": "ENGLISH1102",
-    "Past_Takers": "",
-    "Current_Takers": "Chris Hardie"
+    "Past_Takers": "Paul Barsa, Keerthan, Tusheet Sidharth Goli",
+    "Current_Takers": "Danny Bach, Tanner Zagrodnik, Jasper Seabold, Christian DeRolf, Tyson, Aryan, Liam Bourque, Chris Hardie"
   },
   {
     "Course_Name": "FREN1001",
@@ -366,7 +381,7 @@
   },
   {
     "Course_Name": "GT1000",
-    "Past_Takers": "Chesson, Paul Barsa",
+    "Past_Takers": "Chesson, Paul Barsa, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
@@ -382,7 +397,7 @@
   {
     "Course_Name": "HTS2041",
     "Past_Takers": "",
-    "Current_Takers": "Big tex"
+    "Current_Takers": "Tejas Pradeep"
   },
   {
     "Course_Name": "HTS2100",
@@ -426,7 +441,7 @@
   },
   {
     "Course_Name": "ISYE3770",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
@@ -437,7 +452,7 @@
   {
     "Course_Name": "KOR1002",
     "Past_Takers": "",
-    "Current_Takers": "roach, Ahmad"
+    "Current_Takers": "David Desrochers, Ahmad"
   },
   {
     "Course_Name": "KOR2001",
@@ -446,13 +461,13 @@
   },
   {
     "Course_Name": "LMC2200",
-    "Past_Takers": "",
-    "Current_Takers": "Big tex, Paden Davis, Gabe"
+    "Past_Takers": "Tusheet Sidharth Goli",
+    "Current_Takers": "Tejas Pradeep, Paden Davis, Gabe"
   },
   {
     "Course_Name": "LMC3431",
     "Past_Takers": "",
-    "Current_Takers": "roach, Matthew Dacey-Koo, Ryan Lynch"
+    "Current_Takers": "David Desrochers, Matthew Dacey-Koo, Ryan Lynch"
   },
   {
     "Course_Name": "LMC4702",
@@ -461,22 +476,22 @@
   },
   {
     "Course_Name": "MATH1551",
-    "Past_Takers": "António Ferreira",
+    "Past_Takers": "António Ferreira, Tusheet Sidharth Goli",
     "Current_Takers": ""
   },
   {
     "Course_Name": "MATH1552",
-    "Past_Takers": "",
+    "Past_Takers": "Tusheet Sidharth Goli",
     "Current_Takers": "Antonio Ferreira, Henok Alemu, Chris Hardie"
   },
   {
     "Course_Name": "MATH1553",
-    "Past_Takers": "António Ferreira",
+    "Past_Takers": "António Ferreira, Tusheet Sidharth Goli",
     "Current_Takers": "Anay Naik"
   },
   {
     "Course_Name": "MATH1554",
-    "Past_Takers": "Chesson, Paul Barsa, Keerthan, Christian DeRolf",
+    "Past_Takers": "Chesson, Paul Barsa, Keerthan, Christian DeRolf, Tusheet Sidharth Goli",
     "Current_Takers": "Rishi Nopany, Vibhav Agrawal, Aryan"
   },
   {
@@ -486,12 +501,12 @@
   },
   {
     "Course_Name": "MATH2550",
-    "Past_Takers": "",
+    "Past_Takers": "Tusheet Sidharth Goli",
     "Current_Takers": "Andrew Graffeo, Nathan Weber, Christian DeRolf, Ryan Sheppard"
   },
   {
     "Course_Name": "MATH2551",
-    "Past_Takers": "Tejas Pradeep, Chesson, Paul Barsa",
+    "Past_Takers": "Chesson, Paul Barsa",
     "Current_Takers": "Danny Bach, Brendan Coyne"
   },
   {
@@ -506,7 +521,7 @@
   },
   {
     "Course_Name": "MATH3012",
-    "Past_Takers": "Tejas Pradeep",
+    "Past_Takers": "Tejas Pradeep, Tusheet Sidharth Goli",
     "Current_Takers": "Matthew Dacey-Koo, Keerthan Durasala"
   },
   {
@@ -672,16 +687,16 @@
   {
     "Course_Name": "PHYS2022",
     "Past_Takers": "",
-    "Current_Takers": "Ethan FrAtkinson"
+    "Current_Takers": "Ethan Atkinson"
   },
   {
     "Course_Name": "PHYS2211",
-    "Past_Takers": "",
+    "Past_Takers": "Tusheet Sidharth Goli",
     "Current_Takers": "Danny Bach, Tanner Zagrodnik, Andrew Graffeo, Christian DeRolf, Lucas Ahrens, Antonio Ferreira, Henok Alemu, Anay Naik"
   },
   {
     "Course_Name": "PHYS2212",
-    "Past_Takers": "",
+    "Past_Takers": "Tusheet Sidharth Goli",
     "Current_Takers": "Brendan Coyne, Tyson, Ryan Sheppard"
   },
   {
@@ -722,12 +737,12 @@
   {
     "Course_Name": "PHYS3143",
     "Past_Takers": "Chesson",
-    "Current_Takers": "Ethan FrAtkinson"
+    "Current_Takers": "Ethan Atkinson"
   },
   {
     "Course_Name": "PHYS3201",
     "Past_Takers": "Chesson",
-    "Current_Takers": "Ethan FrAtkinson, Zachary Shapiro"
+    "Current_Takers": "Ethan Atkinson, Zachary Shapiro"
   },
   {
     "Course_Name": "PHYS3202",
@@ -781,22 +796,12 @@
   },
   {
     "Course_Name": "PSYC1101",
-    "Past_Takers": "",
-    "Current_Takers": "Rishi Nopany"
-  },
-  {
-    "Course_Name": "PSYCH1101",
-    "Past_Takers": "",
-    "Current_Takers": "Henok Alemu"
+    "Past_Takers": "Tusheet Sidharth Goli",
+    "Current_Takers": "Rishi Nopany, Paul Barsa, Henok Alemu"
   },
   {
     "Course_Name": "PUBP1142",
     "Past_Takers": "Keerthan",
-    "Current_Takers": ""
-  },
-  {
-    "Course_Name": "PYSC1101",
-    "Past_Takers": "Paul Barsa",
     "Current_Takers": ""
   },
   {
@@ -807,7 +812,7 @@
   {
     "Course_Name": "RUSS1002",
     "Past_Takers": "",
-    "Current_Takers": "Ethan FrAtkinson"
+    "Current_Takers": "Ethan Atkinson"
   },
   {
     "Course_Name": "SOC1101",
@@ -826,7 +831,7 @@
   },
   {
     "Course_Name": "VIP3602",
-    "Past_Takers": "",
+    "Past_Takers": "Tusheet Sidharth Goli, Tejas Pradeep",
     "Current_Takers": "Paden Davis"
   }
 ]

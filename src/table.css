@@ -12,13 +12,13 @@ table {
     line-height: 20px;
   }
     
-  table tr:hover {background-color: #B338ED;}
+  table tr:hover {background-color: #51ff00;}
   
   table th {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: center;
-    background-color: #ffd700;
+    background-color: #0084ff;
     color: black;
     font-size: 20px;
   }

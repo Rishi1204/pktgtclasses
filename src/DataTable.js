@@ -36,7 +36,8 @@ const DataTable = () => {
             <div>
                 <input 
                     type="text"
-                    placeholder="Search For A Course..."
+                    placeholder="Search Course Name..."
+                    style={{width: "500px", textAlign: "center"}}
                     onChange={event => {setSearchTerm(event.target.value)}}
                 />
             </div>
