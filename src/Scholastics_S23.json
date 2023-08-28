@@ -407,22 +407,22 @@
 	},
 	{
 		"Course_Name": "ME 3322",
-		"Past_Takers": ", Paul Barsa",
+		"Past_Takers": "Paul Barsa",
 		"Current_Takers": "Gray"
 	},
 	{
 		"Course_Name": "ME 3340",
-		"Past_Takers": ", Paul Barsa",
+		"Past_Takers": "Paul Barsa",
 		"Current_Takers": "Gray"
 	},
 	{
 		"Course_Name": "MGT 3150",
-		"Past_Takers": ", Lucas Ahrens",
+		"Past_Takers": "Lucas Ahrens",
 		"Current_Takers": ""
 	},
 	{
 		"Course_Name": "MGT 3660",
-		"Past_Takers": ", Matt Jordan",
+		"Past_Takers": "Matt Jordan",
 		"Current_Takers": ""
 	},
 	{
@@ -463,7 +463,7 @@
 	{
 		"Course_Name": "MUSI 3131",
 		"Past_Takers": "Liam Bourque",
-		"Current_Takers": "Liam Bourque"
+		"Current_Takers": ""
 	},
 	{
 		"Course_Name": "MUSI 6104",

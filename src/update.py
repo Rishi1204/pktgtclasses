@@ -2,67 +2,88 @@ import json
 import csv
 import re
 
-def updateScholasticsResponses(oldNames):
-    f = open("Updated_Scholastics.json", "r")
-    o = open("Updated_Scholastics_2.json", "w")
-    oldData = json.load(f)
-    for item in oldData:
-        item["Course_Name"] = (re.sub("[A-Za-z]+", lambda ele: " " + ele[0] + " ", item["Course_Name"])).strip()
-        if item["Current_Takers"] != "":
-           item["Past_Takers"] += ", " + item["Current_Takers"]
-           item["Current_Takers"] = ""
-        for name in oldNames:
-            formattedName = name + ", "
-            if (formattedName in item["Past_Takers"]):
-                item["Past_Takers"] = item["Past_Takers"].replace(formattedName, "")
-            elif (name in item["Past_Takers"]):
-                item["Past_Takers"] = item["Past_Takers"].replace(name, "")
-        print(item)           
-    f.close()
-    o.write(json.dumps(oldData))
-    o.close()
-
 def listToString(list):
+    """
+    Helper function to convert a list to a string
+    """
+    if len(list) == 0:
+        return ""
     if len(list) == 1:
         return list[0]
     else:
         return list[0] + ", " + listToString(list[1:])
+
+def updateExistingScholastics(graduatedBrothers: set) -> None:
+    """
+    Update the existing scholastics file to move the current takers to past takers and remove graduated brothers
+    """
+    f = open("src/Scholastics_S23.json", "r")
+    courses = json.load(f)
+    newCourses = []
+    for course in courses:
+        if course["Current_Takers"] != "":
+            course["Past_Takers"] += ", " + course["Current_Takers"]
+            course["Past_Takers"] = course["Past_Takers"].strip(",")
+            course["Past_Takers"] = course["Past_Takers"].strip(" ")
+        course["Current_Takers"] = ""
+        pastTakers = course["Past_Takers"].split(", ")
+        # remove graduated brothers
+        newPastTakers = []
+        for name in pastTakers:
+            if name not in graduatedBrothers:
+                newPastTakers.append(name)
+        newCourse = {"Course_Name": course["Course_Name"], "Current_Takers": course["Current_Takers"], "Past_Takers": listToString(newPastTakers)}
+        # only add if it has previous takers
+        if newCourse["Past_Takers"] != "":
+            newCourses.append(newCourse)
+    f.close()
+    # write to new file
+    o = open("src/Scholastics_F23.json", "w")
+    o.write(json.dumps(newCourses))
+    o.close()
+
     
-def parseResponses():
-    with open("Classes_S23.csv", 'r') as file:
-        data = csv.reader(file)
-        # a map of people to classes
-        personMap = dict()
-        for row in data:
-            personMap[row[0]] = row[1].split("\n")
-        # a map of classes to people
-        classMap = dict()
-        for person in personMap:
-            for className in personMap[person]:
-                if className not in classMap:
-                    classMap[className] = []
-                classMap[className].append(person)
-    file.close()
-    with open("Updated_Scholastics_2.json", 'r') as file:
-        data = json.load(file)
-        for className in classMap:
-            classExists = False
-            for item in data:
-                if item["Course_Name"] == className:
-                    classExists = True
-                    item["Current_Takers"] += listToString(classMap[className])
-                    continue
-            # if the class has never been taken before
-            if not classExists:
-                newItem = {"Course_Name": className, "Current_Takers": listToString(classMap[className]), "Past_Takers": ""}
-                data.append(newItem)
-        o = open("Scholastics_S23.json", "w")
-        o.write(json.dumps(data))
-        o.close()
-    file.close()
+def parseNewScholastics():
+    # open the new csv file with new class responses
+    f = open("src/Classes_F23.csv", "r")
+    data = csv.reader(f)
+    # a map of people to classes
+    personMap = dict()
+    for row in data:
+        personMap[row[0]] = row[1].split("\n")
+    # a map of classes to people
+    classMap = dict()
+    for person in personMap:
+        for className in personMap[person]:
+            if className not in classMap:
+                classMap[className] = []
+            classMap[className].append(person)
+    f.close()
+    # populate the updated json file with the new current takers
+    f = open("src/Scholastics_F23.json", "r")
+    courses = json.load(f)
+    newCourses = []
+    for course in courses:
+        if course["Course_Name"] in classMap:
+            newCourse = {"Course_Name": course["Course_Name"].strip(' '), "Current_Takers": listToString(classMap[course["Course_Name"]]), "Past_Takers": course["Past_Takers"]}
+            classMap.pop(course["Course_Name"])
+        else:
+            newCourse = {"Course_Name": course["Course_Name"].strip(' '), "Current_Takers": "", "Past_Takers": course["Past_Takers"]}
+        newCourses.append(newCourse)
+    # add the new classes
+    for className in classMap:
+        newCourse = {"Course_Name": className.strip(' '), "Current_Takers": listToString(classMap[className]), "Past_Takers": ""}
+        newCourses.append(newCourse)
+    f.close()
+    # write to new file
+    o = open("src/New_Scholastics_F23.json", "w")
+    o.write(json.dumps(newCourses))
+    o.close()
         
 
-parseResponses()
-# updateScholasticsResponses([])
+# parseResponses()
+graduatedBrothers = {'Matthew Dacey-Koo', 'Sergio', 'David Desrochers', 'Ronald George', 'Gabe'}
+updateExistingScholastics(graduatedBrothers)
+parseNewScholastics()
 
                     

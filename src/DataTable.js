@@ -1,7 +1,6 @@
 import { useMemo, useState } from 'react';
 import { useTable } from 'react-table';
-// import DATA from "./Scholastics_Responses.json"
-import DATA from './Scholastics_S23.json';
+import DATA from './New_Scholastics_F23.json';
 import { COLUMNS } from './columns';
 import './table.css';
 
