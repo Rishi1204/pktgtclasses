@@ -1,0 +1,1960 @@
+[
+  {
+    "Course_Name": "AE 1601",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christopher Hardie"
+    ]
+  },
+  {
+    "Course_Name": "AE 2010",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright",
+      "Christopher Hardie"
+    ]
+  },
+  {
+    "Course_Name": "AE 2610",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "AE 2611",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "AE 3030",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christopher Hardie",
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "AE 3140",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright",
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "AE 3530",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright",
+      "Christopher Hardie",
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "APPH 1040",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "Bryce Kelly",
+      "Aditya Prasad",
+      "Jackson Belanger",
+      "Matt Jordan",
+      "Christian DeRolf",
+      "Yan Tsenter",
+      "Jasper Seabold",
+      "Jason Lai",
+      "Aarin Jain"
+    ]
+  },
+  {
+    "Course_Name": "ARBC 1002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tyson Brown"
+    ]
+  },
+  {
+    "Course_Name": "CHEM 1211 K",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Rishi Nopany",
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "CHEM 1212 K",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Zachary Shapiro",
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "CHIN 2002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Andrew Graffeo"
+    ]
+  },
+  {
+    "Course_Name": "COE 2001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright",
+      "Christopher Hardie",
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "COE 3001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christopher Hardie",
+      "Nicolas Young",
+      "Brendan Coyne"
+    ]
+  },
+  {
+    "Course_Name": "CS 1100",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jackson Belanger",
+      "Vibhav Agrawal",
+      "Yan Tsenter",
+      "Joseph Townsend",
+      "Jason Lai",
+      "Alessandro Ferrari"
+    ]
+  },
+  {
+    "Course_Name": "CS 1301",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Yan Tsenter",
+      "Ashton Kapoor",
+      "Christian DeRolf",
+      "Joseph Townsend",
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "CS 1331",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "Christopher Hardie",
+      "Jackson Belanger",
+      "Christian DeRolf",
+      "Rishi Nopany",
+      "Cade Richard",
+      "Daniel Tuten",
+      "Ashton Kapoor",
+      "Aishik Dhori",
+      "Alessandro Ferrari",
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "CS 1332",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Lucas Ahrens",
+      "Alessandro Ferrari",
+      "Jasper Seabold",
+      "Cade Richard",
+      "Justin Xia",
+      "Vibhav Agrawal",
+      "Arin Khanna",
+      "Tyson Brown",
+      "Jason Lai",
+      "Alexander Frawley",
+      "Ryan Hegi",
+      "Aarin Jain"
+    ]
+  },
+  {
+    "Course_Name": "CS 1371",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Brendan Coyne",
+      "Antonio Ferreira",
+      "Nathan Tai"
+    ]
+  },
+  {
+    "Course_Name": "CS 2050",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Arin Khanna",
+      "Ashton Kapoor",
+      "Jasper Seabold",
+      "Cade Richard",
+      "Alessandro Ferrari",
+      "Aarin Jain",
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "CS 2110",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "Lucas Ahrens",
+      "Vedesh Yadlapalli",
+      "Cade Richard",
+      "Justin Xia",
+      "Arin Khanna",
+      "Jasper Seabold",
+      "Alexander Frawley",
+      "Michael Osmolovskiy",
+      "Ryan Hegi",
+      "Aarin Jain"
+    ]
+  },
+  {
+    "Course_Name": "CS 2200",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Vibhav Agrawal",
+      "Lucas Ahrens",
+      "Christian DeRolf",
+      "Rishi Nopany"
+    ]
+  },
+  {
+    "Course_Name": "CS 2340",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Justin Xia",
+      "Daniel Tuten",
+      "Vibhav Agrawal",
+      "Rishi Nopany",
+      "Alessandro Ferrari",
+      "Aarin Jain",
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "CS 2698",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christian DeRolf"
+    ]
+  },
+  {
+    "Course_Name": "CS 3001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "Daniel Tuten",
+      "Christian DeRolf",
+      "Alexander Frawley",
+      "Rishi Nopany",
+      "Cade Richard"
+    ]
+  },
+  {
+    "Course_Name": "CS 3210",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch",
+      "Justin Xia",
+      "Aditya Prasad"
+    ]
+  },
+  {
+    "Course_Name": "CS 3312",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "CS 3510",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Sam Kim",
+      "Aditya Prasad",
+      "Lucas Ahrens",
+      "Christian DeRolf",
+      "Vedesh Yadlapalli",
+      "Rishi Nopany",
+      "Justin Xia",
+      "Arin Khanna",
+      "Vibhav Agrawal",
+      "Jasper Seabold",
+      "Michael Osmolovskiy",
+      "Aarin Jain"
+    ]
+  },
+  {
+    "Course_Name": "CS 3600",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Lucas Ahrens",
+      "Christian DeRolf",
+      "Prajwal Mohan Kumar",
+      "Justin Xia",
+      "Vibhav Agrawal",
+      "Jasper Seabold",
+      "Alexander Frawley",
+      "Aarin Jain",
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "CS 3630",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Daniel Tuten",
+      "Lucas Ahrens",
+      "Christian DeRolf"
+    ]
+  },
+  {
+    "Course_Name": "CS 4240",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "CS 4400",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "Rishi Nopany",
+      "Vibhav Agrawal",
+      "Christian DeRolf"
+    ]
+  },
+  {
+    "Course_Name": "CS 6440",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tejas Pradeep"
+    ]
+  },
+  {
+    "Course_Name": "EAS 1600",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Michael Osmolovskiy",
+      "Vibhav Agrawal"
+    ]
+  },
+  {
+    "Course_Name": "ECE 3710",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Paul Barsa",
+      "David Morales",
+      "Malhar Kamat",
+      "Will Wright",
+      "Tanner Zagrodnik"
+    ]
+  },
+  {
+    "Course_Name": "ECE 3741",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira",
+      "Ryan Hegi",
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "ECON 2101",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira",
+      "Parker Oelrich"
+    ]
+  },
+  {
+    "Course_Name": "ENG 1101",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Yan Tsenter"
+    ]
+  },
+  {
+    "Course_Name": "ENGL 1101",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "James Porter",
+      "Dylan Curran",
+      "Christian DeRolf",
+      "Brendan Coyne",
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "ENGL 1102",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aarin Jain",
+      "Christopher Hardie",
+      "Bryce Kelly",
+      "Christian DeRolf",
+      "Liam Streleckis",
+      "Jasper Seabold",
+      "Brendan Coyne",
+      "Joseph Townsend",
+      "Tanner Zagrodnik",
+      "Liam Bourque",
+      "Ashton Kapoor",
+      "Tyson Brown",
+      "Jason Lai",
+      "Alexander Frawley",
+      "Alessandro Ferrari",
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "FREN 1001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "GRMN 1001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Streleckis",
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "GT 1201",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Vibhav Agrawal",
+      "Alessandro Ferrari",
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "HIST 2111",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christopher Hardie"
+    ]
+  },
+  {
+    "Course_Name": "HTS 2100",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood",
+      "Paul Barsa"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 3025",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 3030",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 3232",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 3770",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "Ryan Lynch",
+      "Daniel Tuten",
+      "Lucas Ahrens",
+      "Vibhav Agrawal",
+      "Christian DeRolf",
+      "Rishi Nopany",
+      "Cade Richard"
+    ]
+  },
+  {
+    "Course_Name": "JAPN 1001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Rishi Nopany",
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "KOR 2001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "LMC 3431",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "MATH 1551",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "James Porter",
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MATH 1552",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly",
+      "Christopher Hardie",
+      "Antonio Ferreira",
+      "Alessandro Ferrari"
+    ]
+  },
+  {
+    "Course_Name": "MATH 1553",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Streleckis",
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MATH 1554",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jackson Belanger",
+      "Christian DeRolf",
+      "Rishi Nopany",
+      "Cade Richard",
+      "Arin Khanna",
+      "Vibhav Agrawal",
+      "Yan Tsenter",
+      "Alexander Frawley",
+      "Alessandro Ferrari"
+    ]
+  },
+  {
+    "Course_Name": "MATH 1712",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "MATH 2550",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christian DeRolf",
+      "Vedesh Yadlapalli",
+      "Cade Richard",
+      "Daniel Tuten",
+      "Vibhav Agrawal",
+      "Arin Khanna",
+      "Michael Osmolovskiy",
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "MATH 2551",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Malhar Kamat",
+      "Aishik Dhori",
+      "Brendan Coyne",
+      "Antonio Ferreira",
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "MATH 2552",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aishik Dhori",
+      "Nathan Tai",
+      "Grayson Leahy",
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "MATH 2603",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "MATH 3012",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aditya Prasad",
+      "Ian Wood",
+      "Justin Xia",
+      "Lucas Ahrens",
+      "Christian DeRolf",
+      "Prajwal Mohan Kumar"
+    ]
+  },
+  {
+    "Course_Name": "ME 1670",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christopher Hardie",
+      "Nicolas Young",
+      "Nathan Tai",
+      "Grayson Leahy",
+      "Liam Streleckis",
+      "Tanner Zagrodnik"
+    ]
+  },
+  {
+    "Course_Name": "ME 2016",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales",
+      "Nicolas Young",
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "ME 2110",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "ME 2202",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales",
+      "Nicolas Young",
+      "Malhar Kamat"
+    ]
+  },
+  {
+    "Course_Name": "ME 3017",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "ME 3322",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "ME 3340",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3150",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Lucas Ahrens"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3660",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta",
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "MSE 1111",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 2001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Streleckis",
+      "Aishik Dhori",
+      "Antonio Ferreira",
+      "Malhar Kamat"
+    ]
+  },
+  {
+    "Course_Name": "MUSI 2011",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque"
+    ]
+  },
+  {
+    "Course_Name": "MUSI 2013",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "MUSI 2015",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque"
+    ]
+  },
+  {
+    "Course_Name": "MUSI 2526",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque"
+    ]
+  },
+  {
+    "Course_Name": "MUSI 3019",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque"
+    ]
+  },
+  {
+    "Course_Name": "MUSI 3131",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque"
+    ]
+  },
+  {
+    "Course_Name": "MUSI 6104",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "PHIL 3127",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Tuten",
+      "Christopher Hardie",
+      "Tanner Zagrodnik",
+      "James Porter"
+    ]
+  },
+  {
+    "Course_Name": "PHYS 2211",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly",
+      "Lucas Ahrens",
+      "Christian DeRolf",
+      "Cade Richard",
+      "Andrew Graffeo",
+      "Joseph Townsend",
+      "Tanner Zagrodnik",
+      "Alexander Frawley",
+      "Antonio Ferreira",
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "PHYS 2212",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "Christopher Hardie",
+      "Nathan Tai",
+      "Tyson Brown",
+      "Brendan Coyne"
+    ]
+  },
+  {
+    "Course_Name": "PHYS 2213",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Zachary Shapiro",
+      "Dylan Curran"
+    ]
+  },
+  {
+    "Course_Name": "PHYS 3201",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ethan Atkinson",
+      "Zachary Shapiro"
+    ]
+  },
+  {
+    "Course_Name": "PHYS 3266",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Zachary Shapiro"
+    ]
+  },
+  {
+    "Course_Name": "PHYS 4143",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ethan Atkinson",
+      "David Lloyd George"
+    ]
+  },
+  {
+    "Course_Name": "PHYS 4813",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Lloyd George"
+    ]
+  },
+  {
+    "Course_Name": "PSYC 1101",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "Rishi Nopany",
+      "Alexander Frawley",
+      "Ashton Kapoor"
+    ]
+  },
+  {
+    "Course_Name": "RUSS 1002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ethan Atkinson"
+    ]
+  },
+  {
+    "Course_Name": "SOC 1101",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "SPAN 3040",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Christian DeRolf"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3076",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "John Lewis"
+    ]
+  },
+  {
+    "Course_Name": "ACCT 2102",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "John Lewis",
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "INTA 1110",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "John Lewis"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3102",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "John Lewis",
+      "Sai Matta",
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "EAS 2600",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Arin Khanna",
+      "Vibhav Agrawal",
+      "Ashton Kapoor"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3078",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ian Wood"
+    ]
+  },
+  {
+    "Course_Name": "ARBC 2002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tyson Brown"
+    ]
+  },
+  {
+    "Course_Name": "CS 6245",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "CS 3220",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "CS 4210",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "ME 3057",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales",
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "ME 3345",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales",
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "KOR 3100",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "MATH 3670",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jason Lai",
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "ECE 4502",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Lloyd George"
+    ]
+  },
+  {
+    "Course_Name": "ME3017",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "PSYC 2230",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "LING 2100",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aarin Jain"
+    ]
+  },
+  {
+    "Course_Name": "HTS 2082",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Lloyd George",
+      "Paden Davis"
+    ]
+  },
+  {
+    "Course_Name": "ECE 4782",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Paden Davis"
+    ]
+  },
+  {
+    "Course_Name": "MATH 4305",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "AE 3531",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "AE4531",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "AE 4803",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "ECE 2031",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aditya Prasad",
+      "Aishik Dhori",
+      "Lucas Ahrens"
+    ]
+  },
+  {
+    "Course_Name": "CS 2701",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Lucas Ahrens"
+    ]
+  },
+  {
+    "Course_Name": "ID 2202",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Arin Khanna",
+      "Parker Oelrich"
+    ]
+  },
+  {
+    "Course_Name": "PHIL 3109",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Tuten"
+    ]
+  },
+  {
+    "Course_Name": "MATH 3406",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim",
+      "Daniel Tuten",
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "RUSS 3002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ethan FrAtkinson"
+    ]
+  },
+  {
+    "Course_Name": "LMC 2730",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "LMC 4720",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "CS 2261",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "HIST 2212",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim"
+    ]
+  },
+  {
+    "Course_Name": "",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim"
+    ]
+  },
+  {
+    "Course_Name": "ECE 2020",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aishik Dhori"
+    ]
+  },
+  {
+    "Course_Name": "ECE 2026",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aishik Dhori"
+    ]
+  },
+  {
+    "Course_Name": "ECE 2040",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aishik Dhori"
+    ]
+  },
+  {
+    "Course_Name": "MSE 2698",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 3001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 3005",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 3015",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aishik Dhori",
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 3025",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "AE 3330",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "AE 2220",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "ECON 2105",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "James Porter",
+      "Yan Tsenter",
+      "Dylan Curran",
+      "Ashton Kapoor",
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "MATH 3235",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "MATH 4107",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "MATH 4317",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "CEE 1770",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Brendan Coyne"
+    ]
+  },
+  {
+    "Course_Name": "CEE 2040",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Brendan Coyne"
+    ]
+  },
+  {
+    "Course_Name": "CEE 3000",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Brendan Coyne"
+    ]
+  },
+  {
+    "Course_Name": "INTA 1101",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Brendan Coyne"
+    ]
+  },
+  {
+    "Course_Name": "EAS 1601",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque"
+    ]
+  },
+  {
+    "Course_Name": "CHIN 1501",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Justin Xia"
+    ]
+  },
+  {
+    "Course_Name": "CEE 3770",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Justin Xia",
+      "Brendan Coyne"
+    ]
+  },
+  {
+    "Course_Name": "MGT 2210",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta",
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "MGT 2255",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta",
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3659",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta",
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3079",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta",
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3599",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta",
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "ID 1102",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly"
+    ]
+  },
+  {
+    "Course_Name": "ID 1012",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly"
+    ]
+  },
+  {
+    "Course_Name": "ID 1402",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly"
+    ]
+  },
+  {
+    "Course_Name": "ID 1419",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly"
+    ]
+  },
+  {
+    "Course_Name": "CS 1316",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3062",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "CHN 2002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3300",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 3133",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 3044",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 4134",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "HTS 3012",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 4803",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "ISYE 4034",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3000",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Alexander Frawley"
+    ]
+  },
+  {
+    "Course_Name": "LMC 4725",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "LMC 3406",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "ECE 2036",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aishik Dhori"
+    ]
+  },
+  {
+    "Course_Name": "MATH 4022",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Tuten"
+    ]
+  },
+  {
+    "Course_Name": "CS 3511",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Tuten"
+    ]
+  },
+  {
+    "Course_Name": "CS 4641",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Justin Xia",
+      "Daniel Tuten",
+      "Arin Khanna",
+      "Vedesh Yadlapalli",
+      "Aarin Jain"
+    ]
+  },
+  {
+    "Course_Name": "CS 4699",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Tuten",
+      "Prajwal Mohan Kumar"
+    ]
+  },
+  {
+    "Course_Name": "LMC 4701",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Tuten"
+    ]
+  },
+  {
+    "Course_Name": "MSE 3002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 3021",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 3210",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "MSE 4699",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "INTA 1200",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Antonio Ferreira"
+    ]
+  },
+  {
+    "Course_Name": "CS 4726",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Lucas Ahrens"
+    ]
+  },
+  {
+    "Course_Name": "CS 2699",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Vedesh Yadlapalli"
+    ]
+  },
+  {
+    "Course_Name": "ME 3210",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales",
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "ME 4056",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "ME 4012",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "ME 3180",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales",
+      "Grayson Leahy"
+    ]
+  },
+  {
+    "Course_Name": "KOR 3813",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Morales"
+    ]
+  },
+  {
+    "Course_Name": "MATH 4150",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Prajwal Mohan Kumar",
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "CS 4510",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jasper Seabold"
+    ]
+  },
+  {
+    "Course_Name": "CS 4235",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Rishi Nopany"
+    ]
+  },
+  {
+    "Course_Name": "BIOS 4400",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jaron Rosenberg"
+    ]
+  },
+  {
+    "Course_Name": "CHEM 1315",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jaron Rosenberg"
+    ]
+  },
+  {
+    "Course_Name": "NEUR 2001",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jaron Rosenberg"
+    ]
+  },
+  {
+    "Course_Name": "SPAN 3111",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jaron Rosenberg"
+    ]
+  },
+  {
+    "Course_Name": "MATH 2106",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sam Kim"
+    ]
+  },
+  {
+    "Course_Name": "AE4040",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tanner Zagrodnik"
+    ]
+  },
+  {
+    "Course_Name": "AE3531",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tanner Zagrodnik"
+    ]
+  },
+  {
+    "Course_Name": "AE4451",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tanner Zagrodnik"
+    ]
+  },
+  {
+    "Course_Name": "AE4331",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tanner Zagrodnik"
+    ]
+  },
+  {
+    "Course_Name": "HTS 3033",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "William Bunker"
+    ]
+  },
+  {
+    "Course_Name": "BIOS 4545",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Alessandro Ferrari"
+    ]
+  },
+  {
+    "Course_Name": "BIOS 4699",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Alessandro Ferrari"
+    ]
+  },
+  {
+    "Course_Name": "ECE 4951",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "David Lloyd George"
+    ]
+  },
+  {
+    "Course_Name": "ECE 3040",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "ECE 3043",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "ECE 3084",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "ECE 3025",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "FREN 1002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Bach"
+    ]
+  },
+  {
+    "Course_Name": "CS 4010",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Arin Khanna"
+    ]
+  },
+  {
+    "Course_Name": "CS 6340",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "CS 6747",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "CS 6210",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Lynch"
+    ]
+  },
+  {
+    "Course_Name": "ID 2101",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly",
+      "Parker Oelrich"
+    ]
+  },
+  {
+    "Course_Name": "ID 2320",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly"
+    ]
+  },
+  {
+    "Course_Name": "ID 2023",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Bryce Kelly",
+      "Parker Oelrich"
+    ]
+  },
+  {
+    "Course_Name": "RUSS 4813",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ethan Atkinson"
+    ]
+  },
+  {
+    "Course_Name": "CS 3451",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Nathan Weber"
+    ]
+  },
+  {
+    "Course_Name": "AE 4451",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "AE4699",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Will Wright"
+    ]
+  },
+  {
+    "Course_Name": "MGT 2106",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Daniel Meng"
+    ]
+  },
+  {
+    "Course_Name": "CS 2316",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Liam Bourque",
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "AE 4531",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "GRMN 1002",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Ryan Hegi"
+    ]
+  },
+  {
+    "Course_Name": "INTA 4007",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "ML 2500",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Matt Jordan"
+    ]
+  },
+  {
+    "Course_Name": "MATH 3215",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Aditya Prasad"
+    ]
+  },
+  {
+    "Course_Name": "ECE 6456",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Paden Davis"
+    ]
+  },
+  {
+    "Course_Name": "PHY 2211",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Vibhav Agrawal"
+    ]
+  },
+  {
+    "Course_Name": "CS 6601",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Tejas Pradeep"
+    ]
+  },
+  {
+    "Course_Name": "CS 2051",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Joseph Townsend"
+    ]
+  },
+  {
+    "Course_Name": "HIST 2112",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Jackson Belanger"
+    ]
+  },
+  {
+    "Course_Name": "CHEM 1211K",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "James Porter"
+    ]
+  },
+  {
+    "Course_Name": "CHEM 1211K Lab",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "James Porter"
+    ]
+  },
+  {
+    "Course_Name": "MATH 1564",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Dylan Curran"
+    ]
+  },
+  {
+    "Course_Name": "GT 1000 MATH",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Dylan Curran"
+    ]
+  },
+  {
+    "Course_Name": "MGT 4026",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta"
+    ]
+  },
+  {
+    "Course_Name": "MGT 4076",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta"
+    ]
+  },
+  {
+    "Course_Name": "APPH  1040",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta"
+    ]
+  },
+  {
+    "Course_Name": "MGT 3501",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Sai Matta"
+    ]
+  },
+  {
+    "Course_Name": "CS 6515",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Prajwal Mohan Kumar"
+    ]
+  },
+  {
+    "Course_Name": "LMC 3403",
+    "Current_Takers": [],
+    "Past_Takers": [
+      "Prajwal Mohan Kumar"
+    ]
+  }
+]
